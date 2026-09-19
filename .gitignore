@@ -1,0 +1,46 @@
+# Environment variables and API keys (CRITICAL)
+.env
+*.env
+*.env.*
+!*.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.venv*/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Heavy Machine Learning Weights (downloaded on runtime)
+*.pth
+*.pt
+*.bin
+*.onnx
+*.safetensors
+!mcp_servers/vision_server/models/README.md
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Log files
+*.log
+*.tmp
