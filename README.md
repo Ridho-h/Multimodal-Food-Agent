@@ -5,7 +5,6 @@
 [![Gradio](https://img.shields.io/badge/Gradio-6.0+-orange.svg?logo=gradio&logoColor=white)](https://gradio.app)
 [![MCP](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-8A2BE2.svg)](https://modelcontextprotocol.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > An end-to-end, production-grade AI system that identifies food dishes from photographs, queries verified nutritional databases via the **Model Context Protocol (MCP)**, and provides calibrated, context-aware dietary guidance through multimodal LLM reasoning.
 
@@ -255,12 +254,8 @@ This system leverages the **Model Context Protocol (MCP)** to separate capabilit
 
 ---
 
-## ⚖️ License & Medical Disclaimer
+## ⚖️ Medical Disclaimer
 
-### License
-This project is open source and available under the terms of the [MIT License](LICENSE).
-
-### Medical Disclaimer
 > [!WARNING]
 > **Important Medical & Educational Disclaimer**  
 > The nutritional estimations and dietary feedback provided by this system are intended strictly for educational and informational purposes. They do not constitute certified medical diagnosis, nutritional prescriptions, or individualized healthcare advice. Always consult a registered dietitian, physician, or certified health professional before making significant changes to your diet or if managing chronic health conditions (such as diabetes, hypertension, or food allergies).
